@@ -1,2 +1,1 @@
-# Erciyes-Teknopark
-25 subat proje
+# Erciyes Teknopark 25 Subat Proje
